@@ -28,10 +28,15 @@ Convolutional Neural Network: is a class of deep neural networks, most applied t
 <img src="https://user-images.githubusercontent.com/72973609/127650761-1268c6b2-1149-4585-bda1-35b46a86808c.png" alt="alt text" width="400" height="300">
 
 * Build Convolutional Neural Network with Type of layers (Conv2D, MaxPooling2D, Flatten, Dense….) 
-<img src="https://user-images.githubusercontent.com/72973609/127650694-683284fa-67a7-478f-9a05-6205862cd429.png" alt="alt text" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/72973609/127650435-c7420629-5ff5-4e35-8e88-8be350bfeaac.png" alt="alt text" width="400" height="300">
+
 
 * Sample of Input after Convolution Layer 
-<img src="https://user-images.githubusercontent.com/72973609/127650435-c7420629-5ff5-4e35-8e88-8be350bfeaac.png" alt="alt text" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/72973609/127650694-683284fa-67a7-478f-9a05-6205862cd429.png" alt="alt text" width="400" height="300">
+
+* Sample of Input after Max Pooling Layer
+
+<img src="https://user-images.githubusercontent.com/72973609/127661725-9e214906-a95c-4261-8c6b-55c59f16f4f6.png" alt="alt text" width="400" height="300">
 
 * Train The Model results and got accuracy 0.9592
 
