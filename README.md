@@ -39,5 +39,5 @@ Convolutional Neural Network: is a class of deep neural networks, most applied t
 
 * Plot Graphs for Training Accuracy and Training Loss
 
-<img src="https://user-images.githubusercontent.com/72973609/127650719-9145a664-28d9-414f-8377-ec8b9cc1448b.png" alt="alt text" width="300" height="300"> <img src="https://user-images.githubusercontent.com/72973609/127650729-064ab382-8b05-4b5b-8aa3-0b84022efcf0.png" alt="alt text" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/72973609/127650719-9145a664-28d9-414f-8377-ec8b9cc1448b.png" alt="alt text" width="200" height="200"> <img src="https://user-images.githubusercontent.com/72973609/127650729-064ab382-8b05-4b5b-8aa3-0b84022efcf0.png" alt="alt text" width="200" height="200">
 
